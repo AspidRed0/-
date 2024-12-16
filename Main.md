@@ -18,4 +18,6 @@
  
 а это матемачисекая формула $\bar(x)=\frac{\sum_{i=1}^n x_i}{n}$
 
-[это сайт нашего университета]{http://mguu.ru}
+[это сайт нашего университета] {http://mguu.ru}
+
+![image](https://i.pinimg.com/736x/c8/cc/24/c8cc24bba37a25c009647b8875aae0e3.jpg)
